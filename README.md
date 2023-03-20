@@ -5,15 +5,15 @@ A curated list of links, references, web-books and conference slides for anythin
 
 ---
 
-# Books
+# Books 📖📚
 
-## R Shiny
+## R Shiny 🎇
 
 - *Mastering Shiny* by [Hadley Wickham](https://hadley.nz/) {[book](https://mastering-shiny.org/)} {[source](https://github.com/hadley/mastering-shiny)}
 - *Engineering Production-Grade Shiny Apps* by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard {[book](https://engineering-shiny.org/)} {[source](https://github.com/ThinkR-open/engineering-shiny-book)}
 - *Outstanding User Interfaces with Shiny* b Kenton Russel {[book](https://unleash-shiny.rinterface.com/)} {[source](https://github.com/DivadNojnarg/outstanding-shiny-ui)}
 
-## R 
+## R ✅ 
 
 - *Advanced R* by [Hadley Wickham](https://hadley.nz/) {[book](https://adv-r.hadley.nz/)} 
   - *Advanced R Solutions* by Malte Grosser, Henning Bumann and Hadley Wickham {[solutions](https://advanced-r-solutions.rbind.io/)}
@@ -22,7 +22,7 @@ A curated list of links, references, web-books and conference slides for anythin
   - 2e version (still in development) {[book](https://r4ds.hadley.nz/)}
 - *R packages (2e)* by [Hadley Wickham](https://hadley.nz/) and [Jenny Bryan](http://jennybryan.org/) {[book](https://r-pkgs.org/)} 
 
-## Good Reads
+## Good Reads 🔰
 
 - *Efficient R programming* by Colin Gillespie, Robin Lovelace (2021-03-18) {[book](https://csgillespie.github.io/efficientR/)}
 - *R Cookbook, 2nd Edition* by James (JD) Long and Paul Teetor (2019-09-26) {[book](https://rc2e.com/)}
@@ -36,29 +36,29 @@ A curated list of links, references, web-books and conference slides for anythin
 - *R in Action* by Chuchu Wang {[academia book](https://www.academia.edu/37432363/R_in_Action)}
 - *Data Science in Education Using R* by Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez {[book](https://datascienceineducation.com/)}
 
-## Visualization
+## Visualization 🎨
 
 - *R Graphics Cookbook, 2nd edition* by Winston Chang (2023-03-20) {[book](https://r-graphics.org/)}
 - *ggplot2: Elegant Graphics for Data Analysis, 3rd edition* by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen {[book](https://ggplot2-book.org/)} {[github](https://github.com/hadley/ggplot2-book)}
 
-## Modeling
+## Modeling 🍴
 
 - *An Introduction to Statistical Programming Methods with R* by Matthew Beckman, Stéphane Guerrier, Justin Lee, Roberto Molinari, Samuel Orso & Iegor Rudnytskyi (2020-10-20) {[book](https://smac-group.github.io/ds/)}
 - *Tidy Modeling with R* by Max Kuhn and Julia Silge {[book](https://www.tmwr.org/)}
 - *Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson (2019-06-21) {[book](http://www.feat.engineering/)}
 
 
-## Intermediate
+## Intermediate 👨‍🎓
 
 - *R Programming for Data Science* by Roger D. Peng (2022-05-31) {[book](https://bookdown.org/rdpeng/rprogdatascience/)}
 - *R (BGU course)* by Jonathan D. Rosenblatt (2019-10-10) {[book](https://www.john-ros.com/Rcourse/)}
 
-## Text Analysis
+## Text Analysis :
 
 - *Text Mining with R* by Julia Silge and David Robinson {[book](https://www.tidytextmining.com/)} {[source](https://github.com/dgrtwo/tidy-text-mining)}
 - *Supervised Machine Learning for Text Analysis in R* by Emil Hvitfeldt and Julia Silge (2022-05-11) {[book](https://smltar.com/)}
 
-## R Markdown
+## R Markdown ✍️
 
 - *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire, Garrett Grolemund (2022-04-11) {[book](https://bookdown.org/yihui/rmarkdown/)} {[github](https://github.com/rstudio/rmarkdown-book)}
 - *blogdown: Creating Websites with R Markdown* by Yihui Xie, Amber Thomas, Alison Presmanes Hill (2023-03-17) {[book](https://bookdown.org/yihui/blogdown/)}
@@ -66,23 +66,24 @@ A curated list of links, references, web-books and conference slides for anythin
 - *bookdown: Authoring Books and Technical Documents with R Markdown* by Yihui Xie (2023-03-17) {[book](https://bookdown.org/yihui/bookdown/)} {[github](https://github.com/rstudio/bookdown)}
 
 
-## Advanced++ 
+## Advanced++ 🤓
 
 - *Github actions with R* by Chris Brown, Murray Cadzow, Paula A Martinez, Rhydwyn McGuire, David Neuzerling, David Wilkinson, Saras Windecker (2021-04-09) {[book](https://orchid00.github.io/actions_sandbox/)}
 - *JavaScript for R* by John Coene (2021-04-19) {[book](https://book.javascript-for-r.com/)}
 
-## Misc
+## Misc 🔖
 
 - *Big Book of R* - Comphrehensive book of R books. last-ever bookmark. {[book](https://www.bigbookofr.com/)}
 
 
 ---
 
-# Coding Standards
+# Coding Standards 🐊
 
 - A debugging manifesto by [Julia Evans](https://github.com/jvns) {[website](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)}
 - New zine: The Pocket Guide to Debugging by [Julia Evans](https://github.com/jvns) {[website](https://jvns.ca/blog/2022/12/21/new-zine--the-pocket-guide-to-debugging/)}
 
+---
 
 # Conference Slides
 
