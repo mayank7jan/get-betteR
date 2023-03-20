@@ -22,9 +22,20 @@ A curated list of links, references, web-books and conference slides for anythin
 ## ShinyConf 2023 by Appsilion
 
 - How to Quickly Build a Production-Ready Real World Data Dashboard? by Kamil Wais {Roche} {[slides](https://drive.google.com/file/d/1K4gMi4jNhquR4qZM-CIOfzUGMUkFOcGS/view)}
+- Taking Flight with Shiny: A Modules-First Learning Approach by [Emily Riederer](https://github.com/emilyriederer) {[slides](https://docs.google.com/presentation/d/1mCnBpClhIV82z4PnfdsfDTii9g2O5uspXVI2R3hw6C8/edit#slide=id.g205314064bf_0_52)}
 
 
-# Links & Reference
+# R packages
+
+## R Shiny
+
+## R Advanced - CI/CD, DevOps, MLOps
+
+- shinycoreci: Application-level tools to perfrom manual and automated tests for Shiny apps {[website](https://rstudio.github.io/shinycoreci/)} {[github](https://github.com/rstudio/shinycoreci)}
+
+## R development
+
+
 
 
 ---
@@ -47,8 +58,15 @@ A curated list of links, references, web-books and conference slides for anythin
     - Parallelized loops with R {[blog](https://www.blasbenito.com/post/02_parallelizing_loops_with_r/)}
 - coro {[github](https://github.com/r-lib/coro)} - Implements coroutines for R, i.e. functions that can be suspended and resumed later on
 
+
 ---
+
+# Links & Reference
+
 
 # Misc Reference
 
 - Markdown cheatsheet {[github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)}
+
+
+{[]()}
