@@ -22,20 +22,6 @@ A curated list of links, references, web-books and conference slides for anythin
   - 2e version (still in development) {[book](https://r4ds.hadley.nz/)}
 - *R packages (2e)* by [Hadley Wickham](https://hadley.nz/) and [Jenny Bryan](http://jennybryan.org/) {[book](https://r-pkgs.org/)} 
 
-## Good Reads 🔰
-
-- *Efficient R programming* by Colin Gillespie, Robin Lovelace (2021-03-18) {[book](https://csgillespie.github.io/efficientR/)}
-- *R Cookbook, 2nd Edition* by James (JD) Long and Paul Teetor (2019-09-26) {[book](https://rc2e.com/)}
-- *R for Dummies* by Andrie de Vries {[book](https://archive.org/details/r-for-dummies_202104/mode/2up)}
-- *R in a nutshell* by Joseph Adler {[book](https://bishopkingdom.com/wp-content/uploads/2019/02/53CmONMB63Xqk4kNJ4wN.pdf)} {[alternate link](data/books/r_in_a_nutshell.pdf)}
-- *Learning Base R* {[code links](http://www.math.wm.edu/~leemis/Rcode/)}
-- *Learning R: A Step-by-Step Function Guide to Data Analysis* by Richard Cotton {[book]( http://duhi23.github.io/Analisis-de-datos/Cotton.pdf)} {[book alternate link](data/books/Learning_R_data_analysis_Cotton.pdf)}
-- *Hands-On Programming with R* by Garrett Grolemund {[book](https://rstudio-education.github.io/hopr/)}
-- *R for Everyone (Advanced Analytics and Graphics) and LaTeX* - Adapted from Jared P. Lander's R for Everyone - by Shaoshuang Wen, University of South Carolina (2020-12-14) {[book](https://bookdown.org/swen/R_for_Everyone/)}
-- *The Art of R programming* by Norman Matloff {[book](data/books/The_Art_of_R_Programming_Norman_Matloff.pdf)}
-- *R in Action* by Chuchu Wang {[academia book](https://www.academia.edu/37432363/R_in_Action)}
-- *Data Science in Education Using R* by Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez {[book](https://datascienceineducation.com/)}
-
 ## Visualization 🎨
 
 - *R Graphics Cookbook, 2nd edition* by Winston Chang (2023-03-20) {[book](https://r-graphics.org/)}
@@ -46,7 +32,6 @@ A curated list of links, references, web-books and conference slides for anythin
 - *An Introduction to Statistical Programming Methods with R* by Matthew Beckman, Stéphane Guerrier, Justin Lee, Roberto Molinari, Samuel Orso & Iegor Rudnytskyi (2020-10-20) {[book](https://smac-group.github.io/ds/)}
 - *Tidy Modeling with R* by Max Kuhn and Julia Silge {[book](https://www.tmwr.org/)}
 - *Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson (2019-06-21) {[book](http://www.feat.engineering/)}
-
 
 ## Intermediate 👨‍🎓
 
@@ -65,11 +50,24 @@ A curated list of links, references, web-books and conference slides for anythin
 - *Dynamic Documents with R and knitr* by Yihui Xie {[book](data/books/Dynamic_Documents_with_R_and_knitr.pdf)} {[github](https://github.com/yihui/knitr-book)}
 - *bookdown: Authoring Books and Technical Documents with R Markdown* by Yihui Xie (2023-03-17) {[book](https://bookdown.org/yihui/bookdown/)} {[github](https://github.com/rstudio/bookdown)}
 
-
 ## Advanced++ 🤓
 
 - *Github actions with R* by Chris Brown, Murray Cadzow, Paula A Martinez, Rhydwyn McGuire, David Neuzerling, David Wilkinson, Saras Windecker (2021-04-09) {[book](https://orchid00.github.io/actions_sandbox/)}
 - *JavaScript for R* by John Coene (2021-04-19) {[book](https://book.javascript-for-r.com/)}
+
+## Good Reads 🔰
+
+- *Efficient R programming* by Colin Gillespie, Robin Lovelace (2021-03-18) {[book](https://csgillespie.github.io/efficientR/)}
+- *R Cookbook, 2nd Edition* by James (JD) Long and Paul Teetor (2019-09-26) {[book](https://rc2e.com/)}
+- *R for Dummies* by Andrie de Vries {[book](https://archive.org/details/r-for-dummies_202104/mode/2up)}
+- *R in a nutshell* by Joseph Adler {[book](https://bishopkingdom.com/wp-content/uploads/2019/02/53CmONMB63Xqk4kNJ4wN.pdf)} {[alternate link](data/books/r_in_a_nutshell.pdf)}
+- *Learning Base R* {[code links](http://www.math.wm.edu/~leemis/Rcode/)}
+- *Learning R: A Step-by-Step Function Guide to Data Analysis* by Richard Cotton {[book]( http://duhi23.github.io/Analisis-de-datos/Cotton.pdf)} {[book alternate link](data/books/Learning_R_data_analysis_Cotton.pdf)}
+- *Hands-On Programming with R* by Garrett Grolemund {[book](https://rstudio-education.github.io/hopr/)}
+- *R for Everyone (Advanced Analytics and Graphics) and LaTeX* - Adapted from Jared P. Lander's R for Everyone - by Shaoshuang Wen, University of South Carolina (2020-12-14) {[book](https://bookdown.org/swen/R_for_Everyone/)}
+- *The Art of R programming* by Norman Matloff {[book](data/books/The_Art_of_R_Programming_Norman_Matloff.pdf)}
+- *R in Action* by Chuchu Wang {[academia book](https://www.academia.edu/37432363/R_in_Action)}
+- *Data Science in Education Using R* by Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez {[book](https://datascienceineducation.com/)}
 
 ## Misc 🔖
 
