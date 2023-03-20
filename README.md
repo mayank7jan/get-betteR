@@ -53,7 +53,7 @@ A curated list of links, references, web-books and conference slides for anythin
 - *R Programming for Data Science* by Roger D. Peng (2022-05-31) {[book](https://bookdown.org/rdpeng/rprogdatascience/)}
 - *R (BGU course)* by Jonathan D. Rosenblatt (2019-10-10) {[book](https://www.john-ros.com/Rcourse/)}
 
-## Text Analysis :
+## Text Analysis 🧮
 
 - *Text Mining with R* by Julia Silge and David Robinson {[book](https://www.tidytextmining.com/)} {[source](https://github.com/dgrtwo/tidy-text-mining)}
 - *Supervised Machine Learning for Text Analysis in R* by Emil Hvitfeldt and Julia Silge (2022-05-11) {[book](https://smltar.com/)}
@@ -85,9 +85,9 @@ A curated list of links, references, web-books and conference slides for anythin
 
 ---
 
-# Conference Slides
+# Conference Slides 💎
 
-## ShinyConf 2023 by Appsilion
+## ShinyConf 2023 by Appsilion 📯
 
 - How to Quickly Build a Production-Ready Real World Data Dashboard? by Kamil Wais {Roche} {[slides](https://drive.google.com/file/d/1K4gMi4jNhquR4qZM-CIOfzUGMUkFOcGS/view)}
 - Taking Flight with Shiny: A Modules-First Learning Approach by [Emily Riederer](https://github.com/emilyriederer) {[slides](https://docs.google.com/presentation/d/1mCnBpClhIV82z4PnfdsfDTii9g2O5uspXVI2R3hw6C8/edit#slide=id.g205314064bf_0_52)}
@@ -101,39 +101,42 @@ A curated list of links, references, web-books and conference slides for anythin
 - *Baking JavaScript into a Shiny Package* by [Jon Harmon](https://github.com/jonthegeek) {[slides](r4ds.io/shinyconf2023)} {[alternate link slides](https://r4ds.quarto.pub/shinyconf2023/#/baking-javascript-into-a-shiny-package)} 
 - *Shiny Semantic meets Shiny for Python* by Pavel Demin {[slides](https://docs.google.com/presentation/d/1Wcmtg_Hg3KobZLpZBWFnVd6I2GT-7pE0BHzL27Nqal4/edit#slide=id.g21a34be3d72_0_0)}
 
-## Data Science Hangout by RStudio (now Posit) {[website](https://posit.co/)}
+## Data Science Hangout by RStudio (now Posit) {[website](https://posit.co/)} ♥️
 
 Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael-dempsey/) {2022-2023}
 
-# R packages
+---
 
-## R Shiny
+# R packages 📦
+
+## R Shiny ♦️
 
 - `shinymeta` : Record and expose Shiny app logic using metaprogramming {[website](https://rstudio.github.io/shinymeta)} {[github](https://github.com/rstudio/shinymeta)}
 - `histoslider` : histogram slider input for Shiny {[github](https://github.com/cpsievert/histoslider)}
 - `bslib` : Tools for theming Shiny and R Markdown via Bootstrap 3, 4, or 5 {[github](https://github.com/rstudio/bslib)}
 - `shinyDatetimePicker` : A datetime picker for Shiny {[github](https://github.com/stla/shinyDatetimePicker)}
 
-## R Advanced - CI/CD, DevOps, MLOps
+## R Advanced - CI/CD, DevOps, MLOps 👑
 
 - `r-lib/actions` : GitHub Actions for the R community {[github](https://github.com/r-lib/actions)}
 - `shinycoreci`: Application-level tools to perfrom manual and automated tests for Shiny apps {[website](https://rstudio.github.io/shinycoreci/)} {[github](https://github.com/rstudio/shinycoreci)}
 
 
-## R development
+## R development 📌
 
 - `tidyverse/reprex` : Render bits of R code for sharing, e.g., on GitHub or StackOverflow. {[website](https://reprex.tidyverse.org/)} {[github](https://github.com/tidyverse/reprex/)}
 
 
-## R Misc
+## R Misc 📎
 
 - `chatgpt` : Interface to ChatGPT from R {[github]([https://github.com/tidyverse/reprex/](https://github.com/jcrodriguez1989/chatgpt))} {[cran](https://cran.r-project.org/web/packages/chatgpt/)}
 
+
 ---
 
-# Level Up
+# Level Up ⏫
 
-## Aynchronous programming
+## Aynchronous programming 🪂
 
 - Futureverse {[website](https://www.futureverse.org/)} - future {[github](https://github.com/HenrikBengtsson/future)} {[website](https://future.futureverse.org/)} and promises {[github](https://github.com/rstudio/promises/)} {[website](https://rstudio.github.io/promises/)}
   - A future is an abstraction for a value that may be available at some point in the future. The state of a future can either be unresolved or resolved
@@ -152,20 +155,19 @@ Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael
 
 ---
 
-# Links & Reference
+# Links & Reference 📇
 
+## R Shiny Applications 🔭
 
-## R Shiny Applications
-
-### R in Pharma 
+### R in Pharma ⚕️
 
 - Risk Assessment Application - {[app](https://rinpharma.shinyapps.io/risk_assessment/)}
 
-### General
+### General ⚽
 
 - Making Project Management Seamless using Automated Gantt Charts in R Shiny - {[app](https://lucy-njuki.shinyapps.io/Gantt_Chart_ShinyConfy2023/)} {[github](https://github.com/LucyNjuki/Shiny-Confy-2023)}
 
-## Misc Reference
+## Misc Reference ⛳
 
 - Markdown cheatsheet {[github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)}
 - Bootstrap : Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins. {[website](https://getbootstrap.com/)}
