@@ -7,12 +7,14 @@ A curated list of links, references, web-books and conference slides for anythin
 
 # Books
 
-- *Advanced R* by [Hadley Wickham](https://hadley.nz/) {[book](https://adv-r.hadley.nz/)}  
+- *Mastering Shiny* by [Hadley Wickham](https://hadley.nz/) {[book](https://mastering-shiny.org/)} {[source](https://github.com/hadley/mastering-shiny)}
+- *Advanced R* by [Hadley Wickham](https://hadley.nz/) {[book](https://adv-r.hadley.nz/)} 
   - *Advanced R Solutions* by Malte Grosser, Henning Bumann and Hadley Wickham {[solutions](https://advanced-r-solutions.rbind.io/)}
   - 1 version {[book](http://adv-r.had.co.nz/)} {[solutions](https://advanced-r-solutions-ed1.netlify.app/)}
 - *R for Data Science* by [Hadley Wickham](https://hadley.nz/) and Garrett Grolemund {[book](https://https://r4ds.had.co.nz/)}  
   - 2e version (still in development) {[book](https://r4ds.hadley.nz/)}
 - *R packages (2e)* by [Hadley Wickham](https://hadley.nz/) and [Jenny Bryan](http://jennybryan.org/) {[book](https://r-pkgs.org/)}  
+- *Tidy Modeling with R* by Max Kuhn and Julia Silge {[book](https://www.tmwr.org/)}
 - *R Programming for Data Science* by Roger D. Peng (2022-05-31) {[book](https://bookdown.org/rdpeng/rprogdatascience/)}
 - *R (BGU course)* by Jonathan D. Rosenblatt (2019-10-10) {[book](https://www.john-ros.com/Rcourse/)}
 - *Github actions with R* by Chris Brown, Murray Cadzow, Paula A Martinez, Rhydwyn McGuire, David Neuzerling, David Wilkinson, Saras Windecker (2021-04-09) {[book](https://orchid00.github.io/actions_sandbox/)}
@@ -34,8 +36,9 @@ A curated list of links, references, web-books and conference slides for anythin
 - Finding #RStats resources with Shiny and **GitHub Actions** by [Nicola Rennie](https://github.com/nrennie) {[portfolio](https://nrennie.rbind.io/)} {[slides](https://nrennie.rbind.io/talks/appsilon-shinyconf-github-actions/slides.html#/title-slide)}
 - Debugging Shiny Apps by [Tan Ho](https://tanho.ca/) {[slides](https://docs.google.com/presentation/d/1yuV8wkcsnclF_mQACuR1Fesd8E4A3RrQpmpOruPbzVA/edit#slide=id.p)} {[github repo](https://github.com/tanho63/shinyconf_debugging)}
 - *Towards the next generation of Shiny UI* a.k.a. *How to make a dashboard with {bslib}* by [Carson Sievert](https://github.com/cpsievert) {[slides](https://talks.cpsievert.me/20230317/#/towards-the-next-generation-of-shiny-ui)}
+- *Connecting Slack Teams to Shiny Apps* by Jon Harmon {[slides](https://r4ds.io/rstudio2022)}{[slides alternate link]([https://posit.co/](https://docs.google.com/presentation/d/1aYucN-fSMrDeo60HPS4xUj2GEIakGnn_RMDnV98DUr0/edit#slide=id.p))} 
 
-# Data Science Hangout by RStudio (now Posit) {[website](https://posit.co/)}
+## Data Science Hangout by RStudio (now Posit) {[website](https://posit.co/)}
 
 Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael-dempsey/) {2022-2023}
 
