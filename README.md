@@ -7,17 +7,63 @@ A curated list of links, references, web-books and conference slides for anythin
 
 # Books
 
+## R Shiny
+
 - *Mastering Shiny* by [Hadley Wickham](https://hadley.nz/) {[book](https://mastering-shiny.org/)} {[source](https://github.com/hadley/mastering-shiny)}
+- *Engineering Production-Grade Shiny Apps* by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard {[book](https://engineering-shiny.org/)} {[source](https://github.com/ThinkR-open/engineering-shiny-book)}
+- *Outstanding User Interfaces with Shiny* b Kenton Russel {[book](https://unleash-shiny.rinterface.com/)} {[source](https://github.com/DivadNojnarg/outstanding-shiny-ui)}
+
+## R 
+
 - *Advanced R* by [Hadley Wickham](https://hadley.nz/) {[book](https://adv-r.hadley.nz/)} 
   - *Advanced R Solutions* by Malte Grosser, Henning Bumann and Hadley Wickham {[solutions](https://advanced-r-solutions.rbind.io/)}
   - 1 version {[book](http://adv-r.had.co.nz/)} {[solutions](https://advanced-r-solutions-ed1.netlify.app/)}
 - *R for Data Science* by [Hadley Wickham](https://hadley.nz/) and Garrett Grolemund {[book](https://https://r4ds.had.co.nz/)}  
   - 2e version (still in development) {[book](https://r4ds.hadley.nz/)}
-- *R packages (2e)* by [Hadley Wickham](https://hadley.nz/) and [Jenny Bryan](http://jennybryan.org/) {[book](https://r-pkgs.org/)}  
+- *R packages (2e)* by [Hadley Wickham](https://hadley.nz/) and [Jenny Bryan](http://jennybryan.org/) {[book](https://r-pkgs.org/)} 
+
+## Good Reads
+
+- *Efficient R programming* by Colin Gillespie, Robin Lovelace (2021-03-18) {[book](https://csgillespie.github.io/efficientR/)}
+- *R Cookbook, 2nd Edition* by James (JD) Long and Paul Teetor (2019-09-26) {[book](https://rc2e.com/)}
+- *R for Dummies* by Andrie de Vries {[book](https://archive.org/details/r-for-dummies_202104/mode/2up)}
+- *R in a nutshell* by Joseph Adler {[book](https://bishopkingdom.com/wp-content/uploads/2019/02/53CmONMB63Xqk4kNJ4wN.pdf)}
+- *Learning Base R* {[code links](http://www.math.wm.edu/~leemis/Rcode/)}
+
+## Visualization
+
+- *R Graphics Cookbook, 2nd edition* by Winston Chang (2023-03-20) {[book](https://r-graphics.org/)}
+
+
+## Modeling
+
+- *An Introduction to Statistical Programming Methods with R* by Matthew Beckman, Stéphane Guerrier, Justin Lee, Roberto Molinari, Samuel Orso & Iegor Rudnytskyi (2020-10-20) {[book](https://smac-group.github.io/ds/)}
 - *Tidy Modeling with R* by Max Kuhn and Julia Silge {[book](https://www.tmwr.org/)}
+- *Feature Engineering and Selection: A Practical Approach for Predictive Models* by Max Kuhn and Kjell Johnson (2019-06-21) {[book](http://www.feat.engineering/)}
+
+
+## Intermediate
+
 - *R Programming for Data Science* by Roger D. Peng (2022-05-31) {[book](https://bookdown.org/rdpeng/rprogdatascience/)}
 - *R (BGU course)* by Jonathan D. Rosenblatt (2019-10-10) {[book](https://www.john-ros.com/Rcourse/)}
+
+## Text Analysis
+
+- *Text Mining with R* by Julia Silge and David Robinson {[book](https://www.tidytextmining.com/)} {[source](https://github.com/dgrtwo/tidy-text-mining)}
+- *Supervised Machine Learning for Text Analysis in R* by Emil Hvitfeldt and Julia Silge (2022-05-11) {[book](https://smltar.com/)}
+
+## R Markdown
+
+- *blogdown: Creating Websites with R Markdown* by Yihui Xie, Amber Thomas, Alison Presmanes Hill (2023-03-17) {[book](https://bookdown.org/yihui/blogdown/)}
+- *Dynamic Documents with R and knitr* by Yihui Xie {[book](data)} {[github](https://github.com/yihui/knitr-book)}
+
+## Advanced++ 
+
 - *Github actions with R* by Chris Brown, Murray Cadzow, Paula A Martinez, Rhydwyn McGuire, David Neuzerling, David Wilkinson, Saras Windecker (2021-04-09) {[book](https://orchid00.github.io/actions_sandbox/)}
+- *JavaScript for R* by John Coene (2021-04-19) {[book](https://book.javascript-for-r.com/)}
+
+
+---
 
 # Coding Standards
 
@@ -36,7 +82,10 @@ A curated list of links, references, web-books and conference slides for anythin
 - Finding #RStats resources with Shiny and **GitHub Actions** by [Nicola Rennie](https://github.com/nrennie) {[portfolio](https://nrennie.rbind.io/)} {[slides](https://nrennie.rbind.io/talks/appsilon-shinyconf-github-actions/slides.html#/title-slide)}
 - Debugging Shiny Apps by [Tan Ho](https://tanho.ca/) {[slides](https://docs.google.com/presentation/d/1yuV8wkcsnclF_mQACuR1Fesd8E4A3RrQpmpOruPbzVA/edit#slide=id.p)} {[github repo](https://github.com/tanho63/shinyconf_debugging)}
 - *Towards the next generation of Shiny UI* a.k.a. *How to make a dashboard with {bslib}* by [Carson Sievert](https://github.com/cpsievert) {[slides](https://talks.cpsievert.me/20230317/#/towards-the-next-generation-of-shiny-ui)}
-- *Connecting Slack Teams to Shiny Apps* by Jon Harmon {[slides](https://r4ds.io/rstudio2022)}{[slides alternate link]([https://posit.co/](https://docs.google.com/presentation/d/1aYucN-fSMrDeo60HPS4xUj2GEIakGnn_RMDnV98DUr0/edit#slide=id.p))} 
+- *Connecting Slack Teams to Shiny Apps* by [Jon Harmon](https://github.com/jonthegeek) {[slides](https://r4ds.io/rstudio2022)}{[slides alternate link]([https://posit.co/](https://docs.google.com/presentation/d/1aYucN-fSMrDeo60HPS4xUj2GEIakGnn_RMDnV98DUr0/edit#slide=id.p))} 
+- *Say goodbye to unnecessary waiting: mastering asynchronous programming in Shiny* by [Veerle van Leemput](https://github.com/hypebright) {[slides](https://drive.google.com/file/d/1qngIJToQxE_LExuqgjXXtoV25z2Ri1uQ/view)}
+- *Baking JavaScript into a Shiny Package* by [Jon Harmon](https://github.com/jonthegeek) {[slides](r4ds.io/shinyconf2023)} {[alternate link slides](https://r4ds.quarto.pub/shinyconf2023/#/baking-javascript-into-a-shiny-package)} 
+- *Shiny Semantic meets Shiny for Python* by Pavel Demin {[slides](https://docs.google.com/presentation/d/1Wcmtg_Hg3KobZLpZBWFnVd6I2GT-7pE0BHzL27Nqal4/edit#slide=id.g21a34be3d72_0_0)}
 
 ## Data Science Hangout by RStudio (now Posit) {[website](https://posit.co/)}
 
@@ -48,6 +97,8 @@ Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael
 
 - `shinymeta` : Record and expose Shiny app logic using metaprogramming {[website](https://rstudio.github.io/shinymeta)} {[github](https://github.com/rstudio/shinymeta)}
 - `histoslider` : histogram slider input for Shiny {[github](https://github.com/cpsievert/histoslider)}
+- `bslib` : Tools for theming Shiny and R Markdown via Bootstrap 3, 4, or 5 {[github](https://github.com/rstudio/bslib)}
+- `shinyDatetimePicker` : A datetime picker for Shiny {[github](https://github.com/stla/shinyDatetimePicker)}
 
 ## R Advanced - CI/CD, DevOps, MLOps
 
@@ -60,6 +111,9 @@ Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael
 - `tidyverse/reprex` : Render bits of R code for sharing, e.g., on GitHub or StackOverflow. {[website](https://reprex.tidyverse.org/)} {[github](https://github.com/tidyverse/reprex/)}
 
 
+## R Misc
+
+- `chatgpt` : Interface to ChatGPT from R {[github]([https://github.com/tidyverse/reprex/](https://github.com/jcrodriguez1989/chatgpt))} {[cran](https://cran.r-project.org/web/packages/chatgpt/)}
 
 ---
 
@@ -91,8 +145,11 @@ Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael
 
 ### R in Pharma 
 
-- RISK ASSESSMENT APPLICATION - {[app](https://rinpharma.shinyapps.io/risk_assessment/)}
+- Risk Assessment Application - {[app](https://rinpharma.shinyapps.io/risk_assessment/)}
 
+### General
+
+- Making Project Management Seamless using Automated Gantt Charts in R Shiny - {[app](https://lucy-njuki.shinyapps.io/Gantt_Chart_ShinyConfy2023/)} {[github](https://github.com/LucyNjuki/Shiny-Confy-2023)}
 
 ## Misc Reference
 
