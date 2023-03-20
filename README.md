@@ -27,7 +27,7 @@ A curated list of links, references, web-books and conference slides for anythin
 - *Efficient R programming* by Colin Gillespie, Robin Lovelace (2021-03-18) {[book](https://csgillespie.github.io/efficientR/)}
 - *R Cookbook, 2nd Edition* by James (JD) Long and Paul Teetor (2019-09-26) {[book](https://rc2e.com/)}
 - *R for Dummies* by Andrie de Vries {[book](https://archive.org/details/r-for-dummies_202104/mode/2up)}
-- *R in a nutshell* by Joseph Adler {[book](https://bishopkingdom.com/wp-content/uploads/2019/02/53CmONMB63Xqk4kNJ4wN.pdf)}
+- *R in a nutshell* by Joseph Adler {[book](https://bishopkingdom.com/wp-content/uploads/2019/02/53CmONMB63Xqk4kNJ4wN.pdf)} {[alternate link](data/books/r_in_a_nutshell.pdf)}
 - *Learning Base R* {[code links](http://www.math.wm.edu/~leemis/Rcode/)}
 
 ## Visualization
@@ -55,7 +55,7 @@ A curated list of links, references, web-books and conference slides for anythin
 ## R Markdown
 
 - *blogdown: Creating Websites with R Markdown* by Yihui Xie, Amber Thomas, Alison Presmanes Hill (2023-03-17) {[book](https://bookdown.org/yihui/blogdown/)}
-- *Dynamic Documents with R and knitr* by Yihui Xie {[book](data)} {[github](https://github.com/yihui/knitr-book)}
+- *Dynamic Documents with R and knitr* by Yihui Xie {[book](data/books/Dynamic_Documents_with_R_and_knitr.pdf)} {[github](https://github.com/yihui/knitr-book)}
 
 ## Advanced++ 
 
