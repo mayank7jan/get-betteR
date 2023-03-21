@@ -25,9 +25,9 @@ A curated list of links, references, web-books and conference slides for anythin
 ## R Markdown ✍️
 
 - *R Markdown: The Definitive Guide* by Yihui Xie, J. J. Allaire, Garrett Grolemund (2022-04-11) {[book](https://bookdown.org/yihui/rmarkdown/)} {[github](https://github.com/rstudio/rmarkdown-book)}
-- *blogdown: Creating Websites with R Markdown* by Yihui Xie, Amber Thomas, Alison Presmanes Hill (2023-03-17) {[book](https://bookdown.org/yihui/blogdown/)}
 - *Dynamic Documents with R and knitr* by Yihui Xie {[book](data/books/Dynamic_Documents_with_R_and_knitr.pdf)} {[github](https://github.com/yihui/knitr-book)}
-- *bookdown: Authoring Books and Technical Documents with R Markdown* by Yihui Xie (2023-03-17) {[book](https://bookdown.org/yihui/bookdown/)} {[github](https://github.com/rstudio/bookdown)}
+- *`blogdown`: Creating Websites with R Markdown* by Yihui Xie, Amber Thomas, Alison Presmanes Hill (2023-03-17) {[book](https://bookdown.org/yihui/blogdown/)}
+- *`bookdown`: Authoring Books and Technical Documents with R Markdown* by Yihui Xie (2023-03-17) {[book](https://bookdown.org/yihui/bookdown/)} {[github](https://github.com/rstudio/bookdown)}
 
 ## Visualization 🎨
 
@@ -62,12 +62,16 @@ A curated list of links, references, web-books and conference slides for anythin
 - *R for Dummies* by Andrie de Vries {[book](https://archive.org/details/r-for-dummies_202104/mode/2up)}
 - *R in a nutshell* by Joseph Adler {[book](https://bishopkingdom.com/wp-content/uploads/2019/02/53CmONMB63Xqk4kNJ4wN.pdf)} {[alternate link](data/books/r_in_a_nutshell.pdf)}
 - *Learning Base R* {[code links](http://www.math.wm.edu/~leemis/Rcode/)}
-- *Learning R: A Step-by-Step Function Guide to Data Analysis* by Richard Cotton {[book]( http://duhi23.github.io/Analisis-de-datos/Cotton.pdf)} {[book alternate link](data/books/Learning_R_data_analysis_Cotton.pdf)}
+- *Learning R: A Step-by-Step Function Guide to Data Analysis* by Richard Cotton {[book](http://duhi23.github.io/Analisis-de-datos/Cotton.pdf)} {[book alternate link](data/books/Learning_R_data_analysis_Cotton.pdf)}
 - *Hands-On Programming with R* by Garrett Grolemund {[book](https://rstudio-education.github.io/hopr/)}
 - *R for Everyone (Advanced Analytics and Graphics) and LaTeX* - Adapted from Jared P. Lander's R for Everyone - by Shaoshuang Wen, University of South Carolina (2020-12-14) {[book](https://bookdown.org/swen/R_for_Everyone/)}
 - *The Art of R programming* by Norman Matloff {[book](data/books/The_Art_of_R_Programming_Norman_Matloff.pdf)}
 - *R in Action* by Chuchu Wang {[academia book](https://www.academia.edu/37432363/R_in_Action)}
 - *Data Science in Education Using R* by Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez {[book](https://datascienceineducation.com/)}
+- _Learning R_ (A step by step function guide to Data Analysis) by Richard Cotton {[book](data/books/Learning_R_data_analysis_Cotton.pdf)}
+- _The R Book_ (second edition) by Michael J. Crawley {[book](data/books/TheRBook_Michael_Crawley.pdf)}
+- _The Book of R_ (Programming and Statistics) by Tilman M. Davies {[book](data/books/The_Book_of_R_Tilman_Davies.pdf)}
+
 
 ## Misc 🔖
 
