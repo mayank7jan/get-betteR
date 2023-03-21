@@ -1,7 +1,7 @@
 # get-betteR
 "Life is growth. If we stop growing, technically and spiritually, we are as good as dead."  -Morihei Ueshiba
 
-A curated list of links, references, web-books and conference slides for anything and everything around R and R Shiny. 
+A curated list of web-books, conference slides/recordings, links, and references for anything and everything around R and R Shiny. 
 
 ---
 
@@ -88,7 +88,7 @@ A curated list of links, references, web-books and conference slides for anythin
 
 ---
 
-# Conference Slides 💎
+# Conference(s) Attended 💎
 
 ## ShinyConf 2023 by Appsilion 📯
 
