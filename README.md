@@ -12,6 +12,7 @@ A curated list of web-books, conference slides/recordings, links, and references
 - *Mastering Shiny* by [Hadley Wickham](https://hadley.nz/) {[book](https://mastering-shiny.org/)} {[source](https://github.com/hadley/mastering-shiny)}
 - *Engineering Production-Grade Shiny Apps* by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard {[book](https://engineering-shiny.org/)} {[source](https://github.com/ThinkR-open/engineering-shiny-book)}
 - *Outstanding User Interfaces with Shiny* b Kenton Russel {[book](https://unleash-shiny.rinterface.com/)} {[source](https://github.com/DivadNojnarg/outstanding-shiny-ui)}
+- _Building Web Apps with R Shiny_ by [Lisa DeBruine](https://github.com/debruine) {[book](https://debruine.github.io/shinyintro/)} {[source](https://github.com/debruine/shinyintro)}
 
 ## R ✅ 
 
