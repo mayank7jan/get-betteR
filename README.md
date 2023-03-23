@@ -12,13 +12,14 @@ A curated list of web-books, conference slides/recordings, links, and references
 - *Mastering Shiny* by [Hadley Wickham](https://hadley.nz/) {[book](https://mastering-shiny.org/)} {[source](https://github.com/hadley/mastering-shiny)}
 - *Engineering Production-Grade Shiny Apps* by Colin Fay, Sébastien Rochette, Vincent Guyader and Cervan Girard {[book](https://engineering-shiny.org/)} {[source](https://github.com/ThinkR-open/engineering-shiny-book)}
 - *Outstanding User Interfaces with Shiny* b Kenton Russel {[book](https://unleash-shiny.rinterface.com/)} {[source](https://github.com/DivadNojnarg/outstanding-shiny-ui)}
-- _Building Web Apps with R Shiny_ by [Lisa DeBruine](https://github.com/debruine) {[book](https://debruine.github.io/shinyintro/)} {[source](https://github.com/debruine/shinyintro)}
+- _Building Web Apps with R Shiny_ by [Lisa DeBruine](https://github.com/debruine) {[book](https://debruine.github.io/shinyintro/)} {[pdf](https://debruine.github.io/shinyintro/shinyintro.pdf)} {[source](https://github.com/debruine/shinyintro)} 
 
 ## R ✅ 
 
 - *Advanced R, 2 edition*  by [Hadley Wickham](https://hadley.nz/) {[book](https://adv-r.hadley.nz/)} 
-  - *Advanced R Solutions, 2 edition* by Malte Grosser, Henning Bumann and Hadley Wickham {[solutions](https://advanced-r-solutions.rbind.io/)}
-  - 1 version {[book](http://adv-r.had.co.nz/)} {[solutions](https://advanced-r-solutions-ed1.netlify.app/)}
+  - *Advanced R Solutions, 2 edition* by Malte Grosser, Henning Bumann and Hadley Wickham {[solutions book](https://advanced-r-solutions.rbind.io/)}
+  - *Advanced R Exercise, 2 edition* (solutions, unofficial) by [Indrajeet Patil](https://github.com/IndrajeetPatil) {[solutions book](https://bookdown.org/IndrajeetPatil/Advanced-R-exercises/)} {[github](https://github.com/IndrajeetPatil/Advanced-R-exercises)}
+  - 1 version {[book](http://adv-r.had.co.nz/)} {[solutions book](https://advanced-r-solutions-ed1.netlify.app/)}
 - *R for Data Science, 1 edition* by [Hadley Wickham](https://hadley.nz/) and Garrett Grolemund {[book](https://https://r4ds.had.co.nz/)}  
   - 2e version (still in development) {[book](https://r4ds.hadley.nz/)}
 - *R packages (2e)* by [Hadley Wickham](https://hadley.nz/) and [Jenny Bryan](http://jennybryan.org/) {[book](https://r-pkgs.org/)} 
@@ -78,6 +79,7 @@ A curated list of web-books, conference slides/recordings, links, and references
 
 - *Big Book of R* - Comphrehensive book of R books. last-ever bookmark. {[book](https://www.bigbookofr.com/)}
 - _Introduction to Snapshot Testing in R_ - implementing `testthat`, `shinytest2` and `vdiffr` by [Indrajeet Patil](https://github.com/IndrajeetPatil) {[slides](https://indrajeetpatil.github.io/intro-to-snapshot-testing/#/introduction-to-snapshot-testing-in-r)} {[source](https://github.com/IndrajeetPatil/intro-to-snapshot-testing/)} {[presentaion showcase](https://sites.google.com/site/indrajeetspatilmorality/presentations)}
+- _R Function A Day_ by [Indrajeet Patil](https://github.com/IndrajeetPatil) {[book](https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/)} {[github](https://github.com/IndrajeetPatil/R-Function-A-Day-book)}
 
 ---
 
