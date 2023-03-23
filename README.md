@@ -44,6 +44,7 @@ A curated list of web-books, conference slides/recordings, links, and references
 
 ## Intermediate 👨‍🎓
 
+- _HTTP testing in R_ by Alex Whan, Aurèle, Christophe Dervieux, Daniel Possenriede, Hugo Gruson, Jon Harmon, Lluís Revilla Sancho, Xavier A {[book](https://books.ropensci.org/http-testing/)} {[pdf book](https://books.ropensci.org/http-testing/main.pdf)} {[github](https://github.com/ropensci-books/http-testing)}
 - *R Programming for Data Science* by Roger D. Peng (2022-05-31) {[book](https://bookdown.org/rdpeng/rprogdatascience/)}
 - *R (BGU course)* by Jonathan D. Rosenblatt (2019-10-10) {[book](https://www.john-ros.com/Rcourse/)}
 
