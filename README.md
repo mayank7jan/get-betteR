@@ -79,6 +79,7 @@ A curated list of web-books, conference slides/recordings, links, and references
 ## Misc 🔖
 
 - *Big Book of R* - Comphrehensive book of R books. last-ever bookmark. {[book](https://www.bigbookofr.com/)}
+- _Happy Git and GitHub for the useR_ by [Jennifer (Jenny) Bryan](https://jennybryan.org/) {[book](https://happygitwithr.com/index.html)} {[github](https://github.com/jennybc/happy-git-with-r)}
 - _Introduction to Snapshot Testing in R_ - implementing `testthat`, `shinytest2` and `vdiffr` by [Indrajeet Patil](https://github.com/IndrajeetPatil) {[slides](https://indrajeetpatil.github.io/intro-to-snapshot-testing/#/introduction-to-snapshot-testing-in-r)} {[source](https://github.com/IndrajeetPatil/intro-to-snapshot-testing/)} {[presentaion showcase](https://sites.google.com/site/indrajeetspatilmorality/presentations)}
 - _R Function A Day_ by [Indrajeet Patil](https://github.com/IndrajeetPatil) {[book](https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/)} {[github](https://github.com/IndrajeetPatil/R-Function-A-Day-book)}
 
