@@ -192,4 +192,8 @@ Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael
   - `r-lib/actions/examples` :  GitHub Actions for R projects, which can be used to do a variety of CI tasks {[github](https://github.com/r-lib/actions/tree/v2/examples)} 
   - Deploy to shinyapps.io : GitHub action to automate deployment of shiny applications on https://shinyapps.io {[website](https://github.com/marketplace/actions/deploy-to-shinyapps-io)} {[github](https://github.com/r-lib/actions/blob/v2/examples/shiny-deploy.yaml)}
 
+- GitHub Actions (general)
+  - GitHub Profile Summary Cards : A tool to generate your github summary card for profile README and schedule it using GitHub action. {[website](https://github.com/marketplace/actions/github-profile-summary-cards)}
+
+
 {[]()}
