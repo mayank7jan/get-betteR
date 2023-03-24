@@ -186,5 +186,10 @@ Currently organized by [Rachael Dempsey](https://www.rstudio.com/authors/rachael
   - Excalidraw {[website](https://excalidraw.com/)}
 - {[crontab guru](https://crontab.guru/)} : cron scheduler - The quick and simple editor for cron schedule expressions
 
+## Blogs/Webpages :flashlight:
+
+- GitHub Actions (R)
+  - `r-lib/actions/examples` : {[github](https://github.com/r-lib/actions/tree/v2/examples)} 
+  - Deploy to shinyapps.io : GitHub action to automate deployment of shiny applications on https://shinyapps.io {[website](https://github.com/marketplace/actions/deploy-to-shinyapps-io)} {[github](https://github.com/r-lib/actions/blob/v2/examples/shiny-deploy.yaml)}
 
 {[]()}
